@@ -1,0 +1,15 @@
+C:\Users\Руслан\Desktop\Програмирование\Знакомство с языками программирования (лекции)\1лекцияМатериалы\Lecsiay1\Example1HelloyConsole\bin\Debug\net6.0\Example1HelloyConsole.exe
+C:\Users\Руслан\Desktop\Програмирование\Знакомство с языками программирования (лекции)\1лекцияМатериалы\Lecsiay1\Example1HelloyConsole\bin\Debug\net6.0\Example1HelloyConsole.deps.json
+C:\Users\Руслан\Desktop\Програмирование\Знакомство с языками программирования (лекции)\1лекцияМатериалы\Lecsiay1\Example1HelloyConsole\bin\Debug\net6.0\Example1HelloyConsole.runtimeconfig.json
+C:\Users\Руслан\Desktop\Програмирование\Знакомство с языками программирования (лекции)\1лекцияМатериалы\Lecsiay1\Example1HelloyConsole\bin\Debug\net6.0\Example1HelloyConsole.dll
+C:\Users\Руслан\Desktop\Програмирование\Знакомство с языками программирования (лекции)\1лекцияМатериалы\Lecsiay1\Example1HelloyConsole\bin\Debug\net6.0\Example1HelloyConsole.pdb
+C:\Users\Руслан\Desktop\Програмирование\Знакомство с языками программирования (лекции)\1лекцияМатериалы\Lecsiay1\Example1HelloyConsole\obj\Debug\net6.0\Example1HelloyConsole.csproj.AssemblyReference.cache
+C:\Users\Руслан\Desktop\Програмирование\Знакомство с языками программирования (лекции)\1лекцияМатериалы\Lecsiay1\Example1HelloyConsole\obj\Debug\net6.0\Example1HelloyConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Руслан\Desktop\Програмирование\Знакомство с языками программирования (лекции)\1лекцияМатериалы\Lecsiay1\Example1HelloyConsole\obj\Debug\net6.0\Example1HelloyConsole.AssemblyInfoInputs.cache
+C:\Users\Руслан\Desktop\Програмирование\Знакомство с языками программирования (лекции)\1лекцияМатериалы\Lecsiay1\Example1HelloyConsole\obj\Debug\net6.0\Example1HelloyConsole.AssemblyInfo.cs
+C:\Users\Руслан\Desktop\Програмирование\Знакомство с языками программирования (лекции)\1лекцияМатериалы\Lecsiay1\Example1HelloyConsole\obj\Debug\net6.0\Example1HelloyConsole.csproj.CoreCompileInputs.cache
+C:\Users\Руслан\Desktop\Програмирование\Знакомство с языками программирования (лекции)\1лекцияМатериалы\Lecsiay1\Example1HelloyConsole\obj\Debug\net6.0\Example1HelloyConsole.dll
+C:\Users\Руслан\Desktop\Програмирование\Знакомство с языками программирования (лекции)\1лекцияМатериалы\Lecsiay1\Example1HelloyConsole\obj\Debug\net6.0\refint\Example1HelloyConsole.dll
+C:\Users\Руслан\Desktop\Програмирование\Знакомство с языками программирования (лекции)\1лекцияМатериалы\Lecsiay1\Example1HelloyConsole\obj\Debug\net6.0\Example1HelloyConsole.pdb
+C:\Users\Руслан\Desktop\Програмирование\Знакомство с языками программирования (лекции)\1лекцияМатериалы\Lecsiay1\Example1HelloyConsole\obj\Debug\net6.0\Example1HelloyConsole.genruntimeconfig.cache
+C:\Users\Руслан\Desktop\Програмирование\Знакомство с языками программирования (лекции)\1лекцияМатериалы\Lecsiay1\Example1HelloyConsole\obj\Debug\net6.0\ref\Example1HelloyConsole.dll
